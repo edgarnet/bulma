@@ -180,7 +180,7 @@
     },
     "shecodes": {
       "name": "shecodes",
-      "url": "https://shecodes.tech/",
+      "url": "#",
       "date": "1 Jun 2018"
     },
     "jgthms": {
@@ -391,16 +391,7 @@
   "lists": {
     "home": ["getbedtimestories", "divjoy", "counternetwork", "Gustav"],
     "expo": [
-      "romes",
-      "vinetos",
-      "infinitysearch",
-      "pentos",
-      "vivohostel",
-      "oneprofile",
-      "formalfounder",
-      "klimchuk",
-      "pagespeed",
-      "rydesignsstuff",
+
       "divjoy",
       "spike",
       "ftwcoin",
